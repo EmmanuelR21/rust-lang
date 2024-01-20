@@ -4,6 +4,6 @@ To learn more about Rust and see the resource that I am using, you can check out
 
 Progress so far...
 
-[X] Chapter 1
-[X] Chapter 2
-[ ] Chapter 3
+- [x] Chapter 1
+- [x] Chapter 2
+- [ ] Chapter 3
